@@ -1,0 +1,467 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Downloads\\staj takip sistemi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED83D9D5-A36F-4D08-95CF-DA174F47DD5F}|staj takip sistemi\\staj takip sistemi.csproj|c:\\users\\user\\downloads\\staj takip sistemi\\staj takip sistemi\\stajbasvurufrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ED83D9D5-A36F-4D08-95CF-DA174F47DD5F}|staj takip sistemi\\staj takip sistemi.csproj|solutionrelative:staj takip sistemi\\stajbasvurufrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED83D9D5-A36F-4D08-95CF-DA174F47DD5F}|staj takip sistemi\\staj takip sistemi.csproj|c:\\users\\user\\downloads\\staj takip sistemi\\staj takip sistemi\\stajdefter\u0131ogretmenfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ED83D9D5-A36F-4D08-95CF-DA174F47DD5F}|staj takip sistemi\\staj takip sistemi.csproj|solutionrelative:staj takip sistemi\\stajdefter\u0131ogretmenfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED83D9D5-A36F-4D08-95CF-DA174F47DD5F}|staj takip sistemi\\staj takip sistemi.csproj|c:\\users\\user\\downloads\\staj takip sistemi\\staj takip sistemi\\stajdurumu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ED83D9D5-A36F-4D08-95CF-DA174F47DD5F}|staj takip sistemi\\staj takip sistemi.csproj|solutionrelative:staj takip sistemi\\stajdurumu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED83D9D5-A36F-4D08-95CF-DA174F47DD5F}|staj takip sistemi\\staj takip sistemi.csproj|c:\\users\\user\\downloads\\staj takip sistemi\\staj takip sistemi\\toplukaty\u0131teklemefrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ED83D9D5-A36F-4D08-95CF-DA174F47DD5F}|staj takip sistemi\\staj takip sistemi.csproj|solutionrelative:staj takip sistemi\\toplukaty\u0131teklemefrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED83D9D5-A36F-4D08-95CF-DA174F47DD5F}|staj takip sistemi\\staj takip sistemi.csproj|c:\\users\\user\\downloads\\staj takip sistemi\\staj takip sistemi\\excelfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ED83D9D5-A36F-4D08-95CF-DA174F47DD5F}|staj takip sistemi\\staj takip sistemi.csproj|solutionrelative:staj takip sistemi\\excelfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED83D9D5-A36F-4D08-95CF-DA174F47DD5F}|staj takip sistemi\\staj takip sistemi.csproj|C:\\Users\\User\\Downloads\\staj takip sistemi\\staj takip sistemi\\sqlbaglanti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED83D9D5-A36F-4D08-95CF-DA174F47DD5F}|staj takip sistemi\\staj takip sistemi.csproj|solutionrelative:staj takip sistemi\\sqlbaglanti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED83D9D5-A36F-4D08-95CF-DA174F47DD5F}|staj takip sistemi\\staj takip sistemi.csproj|c:\\users\\user\\downloads\\staj takip sistemi\\staj takip sistemi\\kurumfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED83D9D5-A36F-4D08-95CF-DA174F47DD5F}|staj takip sistemi\\staj takip sistemi.csproj|solutionrelative:staj takip sistemi\\kurumfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED83D9D5-A36F-4D08-95CF-DA174F47DD5F}|staj takip sistemi\\staj takip sistemi.csproj|c:\\users\\user\\downloads\\staj takip sistemi\\staj takip sistemi\\kurumfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ED83D9D5-A36F-4D08-95CF-DA174F47DD5F}|staj takip sistemi\\staj takip sistemi.csproj|solutionrelative:staj takip sistemi\\kurumfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED83D9D5-A36F-4D08-95CF-DA174F47DD5F}|staj takip sistemi\\staj takip sistemi.csproj|c:\\users\\user\\downloads\\staj takip sistemi\\staj takip sistemi\\kurumeklemefrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ED83D9D5-A36F-4D08-95CF-DA174F47DD5F}|staj takip sistemi\\staj takip sistemi.csproj|solutionrelative:staj takip sistemi\\kurumeklemefrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED83D9D5-A36F-4D08-95CF-DA174F47DD5F}|staj takip sistemi\\staj takip sistemi.csproj|c:\\users\\user\\downloads\\staj takip sistemi\\staj takip sistemi\\ogrenc\u0131b\u0131lg\u0131lerfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ED83D9D5-A36F-4D08-95CF-DA174F47DD5F}|staj takip sistemi\\staj takip sistemi.csproj|solutionrelative:staj takip sistemi\\ogrenc\u0131b\u0131lg\u0131lerfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED83D9D5-A36F-4D08-95CF-DA174F47DD5F}|staj takip sistemi\\staj takip sistemi.csproj|c:\\users\\user\\downloads\\staj takip sistemi\\staj takip sistemi\\ogrenc\u0131frm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ED83D9D5-A36F-4D08-95CF-DA174F47DD5F}|staj takip sistemi\\staj takip sistemi.csproj|solutionrelative:staj takip sistemi\\ogrenc\u0131frm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED83D9D5-A36F-4D08-95CF-DA174F47DD5F}|staj takip sistemi\\staj takip sistemi.csproj|c:\\users\\user\\downloads\\staj takip sistemi\\staj takip sistemi\\ogretmenfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ED83D9D5-A36F-4D08-95CF-DA174F47DD5F}|staj takip sistemi\\staj takip sistemi.csproj|solutionrelative:staj takip sistemi\\ogretmenfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED83D9D5-A36F-4D08-95CF-DA174F47DD5F}|staj takip sistemi\\staj takip sistemi.csproj|c:\\users\\user\\downloads\\staj takip sistemi\\staj takip sistemi\\ogrenc\u0131stajdefter\u0131frm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED83D9D5-A36F-4D08-95CF-DA174F47DD5F}|staj takip sistemi\\staj takip sistemi.csproj|solutionrelative:staj takip sistemi\\ogrenc\u0131stajdefter\u0131frm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED83D9D5-A36F-4D08-95CF-DA174F47DD5F}|staj takip sistemi\\staj takip sistemi.csproj|c:\\users\\user\\downloads\\staj takip sistemi\\staj takip sistemi\\ogrenc\u0131stajdefter\u0131frm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ED83D9D5-A36F-4D08-95CF-DA174F47DD5F}|staj takip sistemi\\staj takip sistemi.csproj|solutionrelative:staj takip sistemi\\ogrenc\u0131stajdefter\u0131frm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED83D9D5-A36F-4D08-95CF-DA174F47DD5F}|staj takip sistemi\\staj takip sistemi.csproj|c:\\users\\user\\downloads\\staj takip sistemi\\staj takip sistemi\\stajdefter\u0131ogretmenfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED83D9D5-A36F-4D08-95CF-DA174F47DD5F}|staj takip sistemi\\staj takip sistemi.csproj|solutionrelative:staj takip sistemi\\stajdefter\u0131ogretmenfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED83D9D5-A36F-4D08-95CF-DA174F47DD5F}|staj takip sistemi\\staj takip sistemi.csproj|c:\\users\\user\\downloads\\staj takip sistemi\\staj takip sistemi\\toplukaty\u0131teklemefrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED83D9D5-A36F-4D08-95CF-DA174F47DD5F}|staj takip sistemi\\staj takip sistemi.csproj|solutionrelative:staj takip sistemi\\toplukaty\u0131teklemefrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED83D9D5-A36F-4D08-95CF-DA174F47DD5F}|staj takip sistemi\\staj takip sistemi.csproj|c:\\users\\user\\downloads\\staj takip sistemi\\staj takip sistemi\\ogrenc\u0131b\u0131lg\u0131lerfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED83D9D5-A36F-4D08-95CF-DA174F47DD5F}|staj takip sistemi\\staj takip sistemi.csproj|solutionrelative:staj takip sistemi\\ogrenc\u0131b\u0131lg\u0131lerfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED83D9D5-A36F-4D08-95CF-DA174F47DD5F}|staj takip sistemi\\staj takip sistemi.csproj|c:\\users\\user\\downloads\\staj takip sistemi\\staj takip sistemi\\stajbasvurufrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED83D9D5-A36F-4D08-95CF-DA174F47DD5F}|staj takip sistemi\\staj takip sistemi.csproj|solutionrelative:staj takip sistemi\\stajbasvurufrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED83D9D5-A36F-4D08-95CF-DA174F47DD5F}|staj takip sistemi\\staj takip sistemi.csproj|c:\\users\\user\\downloads\\staj takip sistemi\\staj takip sistemi\\stajdurumu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED83D9D5-A36F-4D08-95CF-DA174F47DD5F}|staj takip sistemi\\staj takip sistemi.csproj|solutionrelative:staj takip sistemi\\stajdurumu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED83D9D5-A36F-4D08-95CF-DA174F47DD5F}|staj takip sistemi\\staj takip sistemi.csproj|c:\\users\\user\\downloads\\staj takip sistemi\\staj takip sistemi\\excelfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED83D9D5-A36F-4D08-95CF-DA174F47DD5F}|staj takip sistemi\\staj takip sistemi.csproj|solutionrelative:staj takip sistemi\\excelfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED83D9D5-A36F-4D08-95CF-DA174F47DD5F}|staj takip sistemi\\staj takip sistemi.csproj|c:\\users\\user\\downloads\\staj takip sistemi\\staj takip sistemi\\g\u0131r\u0131sfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ED83D9D5-A36F-4D08-95CF-DA174F47DD5F}|staj takip sistemi\\staj takip sistemi.csproj|solutionrelative:staj takip sistemi\\g\u0131r\u0131sfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED83D9D5-A36F-4D08-95CF-DA174F47DD5F}|staj takip sistemi\\staj takip sistemi.csproj|c:\\users\\user\\downloads\\staj takip sistemi\\staj takip sistemi\\kurumeklemefrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED83D9D5-A36F-4D08-95CF-DA174F47DD5F}|staj takip sistemi\\staj takip sistemi.csproj|solutionrelative:staj takip sistemi\\kurumeklemefrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED83D9D5-A36F-4D08-95CF-DA174F47DD5F}|staj takip sistemi\\staj takip sistemi.csproj|c:\\users\\user\\downloads\\staj takip sistemi\\staj takip sistemi\\g\u0131r\u0131sfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED83D9D5-A36F-4D08-95CF-DA174F47DD5F}|staj takip sistemi\\staj takip sistemi.csproj|solutionrelative:staj takip sistemi\\g\u0131r\u0131sfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED83D9D5-A36F-4D08-95CF-DA174F47DD5F}|staj takip sistemi\\staj takip sistemi.csproj|c:\\users\\user\\downloads\\staj takip sistemi\\staj takip sistemi\\ogretmenfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED83D9D5-A36F-4D08-95CF-DA174F47DD5F}|staj takip sistemi\\staj takip sistemi.csproj|solutionrelative:staj takip sistemi\\ogretmenfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED83D9D5-A36F-4D08-95CF-DA174F47DD5F}|staj takip sistemi\\staj takip sistemi.csproj|c:\\users\\user\\downloads\\staj takip sistemi\\staj takip sistemi\\ogrenc\u0131frm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED83D9D5-A36F-4D08-95CF-DA174F47DD5F}|staj takip sistemi\\staj takip sistemi.csproj|solutionrelative:staj takip sistemi\\ogrenc\u0131frm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED83D9D5-A36F-4D08-95CF-DA174F47DD5F}|staj takip sistemi\\staj takip sistemi.csproj|c:\\users\\user\\downloads\\staj takip sistemi\\staj takip sistemi\\kurumeklemefrm.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED83D9D5-A36F-4D08-95CF-DA174F47DD5F}|staj takip sistemi\\staj takip sistemi.csproj|solutionrelative:staj takip sistemi\\kurumeklemefrm.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED83D9D5-A36F-4D08-95CF-DA174F47DD5F}|staj takip sistemi\\staj takip sistemi.csproj|C:\\Users\\User\\Downloads\\staj takip sistemi\\staj takip sistemi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED83D9D5-A36F-4D08-95CF-DA174F47DD5F}|staj takip sistemi\\staj takip sistemi.csproj|solutionrelative:staj takip sistemi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "kurumfrm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\staj takip sistemi\\staj takip sistemi\\kurumfrm.cs",
+              "RelativeDocumentMoniker": "staj takip sistemi\\kurumfrm.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\staj takip sistemi\\staj takip sistemi\\kurumfrm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "staj takip sistemi\\kurumfrm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T05:08:39.945Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "kurumfrm.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\staj takip sistemi\\staj takip sistemi\\kurumfrm.cs",
+              "RelativeDocumentMoniker": "staj takip sistemi\\kurumfrm.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\staj takip sistemi\\staj takip sistemi\\kurumfrm.cs",
+              "RelativeToolTip": "staj takip sistemi\\kurumfrm.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAlwBcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T05:09:14.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "sqlBaglanti.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\staj takip sistemi\\staj takip sistemi\\sqlBaglanti.cs",
+              "RelativeDocumentMoniker": "staj takip sistemi\\sqlBaglanti.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\staj takip sistemi\\staj takip sistemi\\sqlBaglanti.cs",
+              "RelativeToolTip": "staj takip sistemi\\sqlBaglanti.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T18:07:10.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "excelfrm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\staj takip sistemi\\staj takip sistemi\\excelfrm.cs",
+              "RelativeDocumentMoniker": "staj takip sistemi\\excelfrm.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\staj takip sistemi\\staj takip sistemi\\excelfrm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "staj takip sistemi\\excelfrm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T05:14:24.737Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "toplukaty\u0131teklemefrm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\staj takip sistemi\\staj takip sistemi\\toplukaty\u0131teklemefrm.cs",
+              "RelativeDocumentMoniker": "staj takip sistemi\\toplukaty\u0131teklemefrm.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\staj takip sistemi\\staj takip sistemi\\toplukaty\u0131teklemefrm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "staj takip sistemi\\toplukaty\u0131teklemefrm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T05:03:26.495Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "stajdurumu.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\staj takip sistemi\\staj takip sistemi\\stajdurumu.cs",
+              "RelativeDocumentMoniker": "staj takip sistemi\\stajdurumu.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\staj takip sistemi\\staj takip sistemi\\stajdurumu.cs [Tasar\u0131m]",
+              "RelativeToolTip": "staj takip sistemi\\stajdurumu.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T05:10:15.904Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "stajdefter\u0131ogretmenfrm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\staj takip sistemi\\staj takip sistemi\\stajdefter\u0131ogretmenfrm.cs",
+              "RelativeDocumentMoniker": "staj takip sistemi\\stajdefter\u0131ogretmenfrm.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\staj takip sistemi\\staj takip sistemi\\stajdefter\u0131ogretmenfrm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "staj takip sistemi\\stajdefter\u0131ogretmenfrm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T05:05:44.196Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "stajbasvurufrm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\staj takip sistemi\\staj takip sistemi\\stajbasvurufrm.cs",
+              "RelativeDocumentMoniker": "staj takip sistemi\\stajbasvurufrm.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\staj takip sistemi\\staj takip sistemi\\stajbasvurufrm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "staj takip sistemi\\stajbasvurufrm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T05:19:40.429Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "kurumeklemefrm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\staj takip sistemi\\staj takip sistemi\\kurumeklemefrm.cs",
+              "RelativeDocumentMoniker": "staj takip sistemi\\kurumeklemefrm.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\staj takip sistemi\\staj takip sistemi\\kurumeklemefrm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "staj takip sistemi\\kurumeklemefrm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T05:08:21.371Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ogrenc\u0131b\u0131lg\u0131lerfrm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\staj takip sistemi\\staj takip sistemi\\ogrenc\u0131b\u0131lg\u0131lerfrm.cs",
+              "RelativeDocumentMoniker": "staj takip sistemi\\ogrenc\u0131b\u0131lg\u0131lerfrm.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\staj takip sistemi\\staj takip sistemi\\ogrenc\u0131b\u0131lg\u0131lerfrm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "staj takip sistemi\\ogrenc\u0131b\u0131lg\u0131lerfrm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T05:05:23.554Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ogrenc\u0131frm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\staj takip sistemi\\staj takip sistemi\\ogrenc\u0131frm.cs",
+              "RelativeDocumentMoniker": "staj takip sistemi\\ogrenc\u0131frm.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\staj takip sistemi\\staj takip sistemi\\ogrenc\u0131frm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "staj takip sistemi\\ogrenc\u0131frm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T05:08:55.688Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ogretmenfrm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\staj takip sistemi\\staj takip sistemi\\ogretmenfrm.cs",
+              "RelativeDocumentMoniker": "staj takip sistemi\\ogretmenfrm.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\staj takip sistemi\\staj takip sistemi\\ogretmenfrm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "staj takip sistemi\\ogretmenfrm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T05:05:16.663Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ogrenc\u0131stajdefter\u0131frm.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\staj takip sistemi\\staj takip sistemi\\ogrenc\u0131stajdefter\u0131frm.cs",
+              "RelativeDocumentMoniker": "staj takip sistemi\\ogrenc\u0131stajdefter\u0131frm.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\staj takip sistemi\\staj takip sistemi\\ogrenc\u0131stajdefter\u0131frm.cs",
+              "RelativeToolTip": "staj takip sistemi\\ogrenc\u0131stajdefter\u0131frm.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAcwFsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T05:10:43.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ogrenc\u0131stajdefter\u0131frm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\staj takip sistemi\\staj takip sistemi\\ogrenc\u0131stajdefter\u0131frm.cs",
+              "RelativeDocumentMoniker": "staj takip sistemi\\ogrenc\u0131stajdefter\u0131frm.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\staj takip sistemi\\staj takip sistemi\\ogrenc\u0131stajdefter\u0131frm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "staj takip sistemi\\ogrenc\u0131stajdefter\u0131frm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T05:10:41.664Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "stajdefter\u0131ogretmenfrm.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\staj takip sistemi\\staj takip sistemi\\stajdefter\u0131ogretmenfrm.cs",
+              "RelativeDocumentMoniker": "staj takip sistemi\\stajdefter\u0131ogretmenfrm.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\staj takip sistemi\\staj takip sistemi\\stajdefter\u0131ogretmenfrm.cs",
+              "RelativeToolTip": "staj takip sistemi\\stajdefter\u0131ogretmenfrm.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAtwCoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T05:05:46.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "toplukaty\u0131teklemefrm.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\staj takip sistemi\\staj takip sistemi\\toplukaty\u0131teklemefrm.cs",
+              "RelativeDocumentMoniker": "staj takip sistemi\\toplukaty\u0131teklemefrm.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\staj takip sistemi\\staj takip sistemi\\toplukaty\u0131teklemefrm.cs",
+              "RelativeToolTip": "staj takip sistemi\\toplukaty\u0131teklemefrm.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAlwBcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T05:04:10.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ogrenc\u0131b\u0131lg\u0131lerfrm.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\staj takip sistemi\\staj takip sistemi\\ogrenc\u0131b\u0131lg\u0131lerfrm.cs",
+              "RelativeDocumentMoniker": "staj takip sistemi\\ogrenc\u0131b\u0131lg\u0131lerfrm.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\staj takip sistemi\\staj takip sistemi\\ogrenc\u0131b\u0131lg\u0131lerfrm.cs",
+              "RelativeToolTip": "staj takip sistemi\\ogrenc\u0131b\u0131lg\u0131lerfrm.cs",
+              "ViewState": "AQIAAJsAAAAAAAAAAAD4v6wAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T05:05:26.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "stajbasvurufrm.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\staj takip sistemi\\staj takip sistemi\\stajbasvurufrm.cs",
+              "RelativeDocumentMoniker": "staj takip sistemi\\stajbasvurufrm.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\staj takip sistemi\\staj takip sistemi\\stajbasvurufrm.cs",
+              "RelativeToolTip": "staj takip sistemi\\stajbasvurufrm.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAD4v0QAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T05:19:42.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "stajdurumu.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\staj takip sistemi\\staj takip sistemi\\stajdurumu.cs",
+              "RelativeDocumentMoniker": "staj takip sistemi\\stajdurumu.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\staj takip sistemi\\staj takip sistemi\\stajdurumu.cs",
+              "RelativeToolTip": "staj takip sistemi\\stajdurumu.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAD4v0gAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T05:10:17.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "excelfrm.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\staj takip sistemi\\staj takip sistemi\\excelfrm.cs",
+              "RelativeDocumentMoniker": "staj takip sistemi\\excelfrm.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\staj takip sistemi\\staj takip sistemi\\excelfrm.cs",
+              "RelativeToolTip": "staj takip sistemi\\excelfrm.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAmwGYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T05:14:27.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "kurumeklemefrm.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\staj takip sistemi\\staj takip sistemi\\kurumeklemefrm.cs",
+              "RelativeDocumentMoniker": "staj takip sistemi\\kurumeklemefrm.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\staj takip sistemi\\staj takip sistemi\\kurumeklemefrm.cs",
+              "RelativeToolTip": "staj takip sistemi\\kurumeklemefrm.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAD4vzEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T05:08:23.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "g\u0131r\u0131sfrm.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\staj takip sistemi\\staj takip sistemi\\g\u0131r\u0131sfrm.cs",
+              "RelativeDocumentMoniker": "staj takip sistemi\\g\u0131r\u0131sfrm.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\staj takip sistemi\\staj takip sistemi\\g\u0131r\u0131sfrm.cs",
+              "RelativeToolTip": "staj takip sistemi\\g\u0131r\u0131sfrm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T05:15:55.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "g\u0131r\u0131sfrm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\staj takip sistemi\\staj takip sistemi\\g\u0131r\u0131sfrm.cs",
+              "RelativeDocumentMoniker": "staj takip sistemi\\g\u0131r\u0131sfrm.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\staj takip sistemi\\staj takip sistemi\\g\u0131r\u0131sfrm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "staj takip sistemi\\g\u0131r\u0131sfrm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T05:15:54.593Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ogrenc\u0131frm.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\staj takip sistemi\\staj takip sistemi\\ogrenc\u0131frm.cs",
+              "RelativeDocumentMoniker": "staj takip sistemi\\ogrenc\u0131frm.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\staj takip sistemi\\staj takip sistemi\\ogrenc\u0131frm.cs",
+              "RelativeToolTip": "staj takip sistemi\\ogrenc\u0131frm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T05:09:00.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ogretmenfrm.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\staj takip sistemi\\staj takip sistemi\\ogretmenfrm.cs",
+              "RelativeDocumentMoniker": "staj takip sistemi\\ogretmenfrm.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\staj takip sistemi\\staj takip sistemi\\ogretmenfrm.cs",
+              "RelativeToolTip": "staj takip sistemi\\ogretmenfrm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T05:05:18.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "kurumeklemefrm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\staj takip sistemi\\staj takip sistemi\\kurumeklemefrm.Designer.cs",
+              "RelativeDocumentMoniker": "staj takip sistemi\\kurumeklemefrm.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\staj takip sistemi\\staj takip sistemi\\kurumeklemefrm.Designer.cs",
+              "RelativeToolTip": "staj takip sistemi\\kurumeklemefrm.Designer.cs",
+              "ViewState": "AQIAAJUAAAAAAAAAAAAWwKcAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T05:07:50.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\staj takip sistemi\\staj takip sistemi\\Program.cs",
+              "RelativeDocumentMoniker": "staj takip sistemi\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\staj takip sistemi\\staj takip sistemi\\Program.cs",
+              "RelativeToolTip": "staj takip sistemi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T19:51:48.89Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

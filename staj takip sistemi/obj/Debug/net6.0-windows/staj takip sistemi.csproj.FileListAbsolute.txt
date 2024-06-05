@@ -1,0 +1,119 @@
+D:\C#\WindowForm Ugulamalari\staj takip sistemi\staj takip sistemi\bin\Debug\net6.0-windows\staj takip sistemi.exe
+D:\C#\WindowForm Ugulamalari\staj takip sistemi\staj takip sistemi\bin\Debug\net6.0-windows\staj takip sistemi.deps.json
+D:\C#\WindowForm Ugulamalari\staj takip sistemi\staj takip sistemi\bin\Debug\net6.0-windows\staj takip sistemi.runtimeconfig.json
+D:\C#\WindowForm Ugulamalari\staj takip sistemi\staj takip sistemi\bin\Debug\net6.0-windows\staj takip sistemi.dll
+D:\C#\WindowForm Ugulamalari\staj takip sistemi\staj takip sistemi\bin\Debug\net6.0-windows\staj takip sistemi.pdb
+D:\C#\WindowForm Ugulamalari\staj takip sistemi\staj takip sistemi\obj\Debug\net6.0-windows\staj takip sistemi.csproj.AssemblyReference.cache
+D:\C#\WindowForm Ugulamalari\staj takip sistemi\staj takip sistemi\obj\Debug\net6.0-windows\staj_takip_sistemi.Properties.Resources.resources
+D:\C#\WindowForm Ugulamalari\staj takip sistemi\staj takip sistemi\obj\Debug\net6.0-windows\staj takip sistemi.csproj.GenerateResource.cache
+D:\C#\WindowForm Ugulamalari\staj takip sistemi\staj takip sistemi\obj\Debug\net6.0-windows\staj takip sistemi.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\WindowForm Ugulamalari\staj takip sistemi\staj takip sistemi\obj\Debug\net6.0-windows\staj takip sistemi.AssemblyInfoInputs.cache
+D:\C#\WindowForm Ugulamalari\staj takip sistemi\staj takip sistemi\obj\Debug\net6.0-windows\staj takip sistemi.AssemblyInfo.cs
+D:\C#\WindowForm Ugulamalari\staj takip sistemi\staj takip sistemi\obj\Debug\net6.0-windows\staj takip sistemi.csproj.CoreCompileInputs.cache
+D:\C#\WindowForm Ugulamalari\staj takip sistemi\staj takip sistemi\obj\Debug\net6.0-windows\staj takip sistemi.dll
+D:\C#\WindowForm Ugulamalari\staj takip sistemi\staj takip sistemi\obj\Debug\net6.0-windows\refint\staj takip sistemi.dll
+D:\C#\WindowForm Ugulamalari\staj takip sistemi\staj takip sistemi\obj\Debug\net6.0-windows\staj takip sistemi.pdb
+D:\C#\WindowForm Ugulamalari\staj takip sistemi\staj takip sistemi\obj\Debug\net6.0-windows\staj takip sistemi.genruntimeconfig.cache
+D:\C#\WindowForm Ugulamalari\staj takip sistemi\staj takip sistemi\obj\Debug\net6.0-windows\ref\staj takip sistemi.dll
+C:\Users\User\Desktop\staj takip sistemi\staj takip sistemi\bin\Debug\net6.0-windows\staj takip sistemi.exe
+C:\Users\User\Desktop\staj takip sistemi\staj takip sistemi\bin\Debug\net6.0-windows\staj takip sistemi.deps.json
+C:\Users\User\Desktop\staj takip sistemi\staj takip sistemi\bin\Debug\net6.0-windows\staj takip sistemi.runtimeconfig.json
+C:\Users\User\Desktop\staj takip sistemi\staj takip sistemi\bin\Debug\net6.0-windows\staj takip sistemi.dll
+C:\Users\User\Desktop\staj takip sistemi\staj takip sistemi\bin\Debug\net6.0-windows\staj takip sistemi.pdb
+C:\Users\User\Desktop\staj takip sistemi\staj takip sistemi\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\User\Desktop\staj takip sistemi\staj takip sistemi\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\User\Desktop\staj takip sistemi\staj takip sistemi\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\User\Desktop\staj takip sistemi\staj takip sistemi\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\User\Desktop\staj takip sistemi\staj takip sistemi\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\Desktop\staj takip sistemi\staj takip sistemi\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\Desktop\staj takip sistemi\staj takip sistemi\obj\Debug\net6.0-windows\staj takip sistemi.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\staj takip sistemi\staj takip sistemi\obj\Debug\net6.0-windows\staj_takip_sistemi.Form1.resources
+C:\Users\User\Desktop\staj takip sistemi\staj takip sistemi\obj\Debug\net6.0-windows\staj_takip_sistemi.Form2.resources
+C:\Users\User\Desktop\staj takip sistemi\staj takip sistemi\obj\Debug\net6.0-windows\staj_takip_sistemi.Form3.resources
+C:\Users\User\Desktop\staj takip sistemi\staj takip sistemi\obj\Debug\net6.0-windows\staj_takip_sistemi.Form4.resources
+C:\Users\User\Desktop\staj takip sistemi\staj takip sistemi\obj\Debug\net6.0-windows\staj_takip_sistemi.Form5.resources
+C:\Users\User\Desktop\staj takip sistemi\staj takip sistemi\obj\Debug\net6.0-windows\staj_takip_sistemi.Form6.resources
+C:\Users\User\Desktop\staj takip sistemi\staj takip sistemi\obj\Debug\net6.0-windows\staj_takip_sistemi.Form7.resources
+C:\Users\User\Desktop\staj takip sistemi\staj takip sistemi\obj\Debug\net6.0-windows\staj_takip_sistemi.Form8.resources
+C:\Users\User\Desktop\staj takip sistemi\staj takip sistemi\obj\Debug\net6.0-windows\staj_takip_sistemi.Properties.Resources.resources
+C:\Users\User\Desktop\staj takip sistemi\staj takip sistemi\obj\Debug\net6.0-windows\staj takip sistemi.csproj.GenerateResource.cache
+C:\Users\User\Desktop\staj takip sistemi\staj takip sistemi\obj\Debug\net6.0-windows\staj takip sistemi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\staj takip sistemi\staj takip sistemi\obj\Debug\net6.0-windows\staj takip sistemi.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\staj takip sistemi\staj takip sistemi\obj\Debug\net6.0-windows\staj takip sistemi.AssemblyInfo.cs
+C:\Users\User\Desktop\staj takip sistemi\staj takip sistemi\obj\Debug\net6.0-windows\staj takip sistemi.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\staj takip sistemi\staj takip sistemi\obj\Debug\net6.0-windows\staj tak.5FA9387D.Up2Date
+C:\Users\User\Desktop\staj takip sistemi\staj takip sistemi\obj\Debug\net6.0-windows\staj takip sistemi.dll
+C:\Users\User\Desktop\staj takip sistemi\staj takip sistemi\obj\Debug\net6.0-windows\refint\staj takip sistemi.dll
+C:\Users\User\Desktop\staj takip sistemi\staj takip sistemi\obj\Debug\net6.0-windows\staj takip sistemi.pdb
+C:\Users\User\Desktop\staj takip sistemi\staj takip sistemi\obj\Debug\net6.0-windows\staj takip sistemi.genruntimeconfig.cache
+C:\Users\User\Desktop\staj takip sistemi\staj takip sistemi\obj\Debug\net6.0-windows\ref\staj takip sistemi.dll
+C:\Users\User\Desktop\staj takip sistemi\staj takip sistemi\obj\Debug\net6.0-windows\staj_takip_sistemi.Form9.resources
+C:\Users\User\Desktop\staj takip sistemi\staj takip sistemi\bin\Debug\net6.0-windows\ExcelDataReader.dll
+C:\Users\User\Desktop\staj takip sistemi\staj takip sistemi\bin\Debug\net6.0-windows\ExcelDataReader.DataSet.dll
+C:\Users\User\Desktop\staj takip sistemi\staj takip sistemi\obj\Debug\net6.0-windows\staj_takip_sistemi.Form10.resources
+C:\Users\User\Desktop\staj takip sistemi\staj takip sistemi\obj\Debug\net6.0-windows\staj_takip_sistemi.Form11.resources
+C:\Users\User\Desktop\staj takip sistemi\staj takip sistemi\bin\Debug\net6.0-windows\System.Text.Encoding.CodePages.dll
+C:\Users\User\Desktop\staj takip sistemi\staj takip sistemi\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll
+D:\C#\WindowForm Ugulamalari\staj takip sistemi\staj takip sistemi\bin\Debug\net6.0-windows\ExcelDataReader.dll
+D:\C#\WindowForm Ugulamalari\staj takip sistemi\staj takip sistemi\bin\Debug\net6.0-windows\ExcelDataReader.DataSet.dll
+D:\C#\WindowForm Ugulamalari\staj takip sistemi\staj takip sistemi\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\C#\WindowForm Ugulamalari\staj takip sistemi\staj takip sistemi\bin\Debug\net6.0-windows\System.Text.Encoding.CodePages.dll
+D:\C#\WindowForm Ugulamalari\staj takip sistemi\staj takip sistemi\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\C#\WindowForm Ugulamalari\staj takip sistemi\staj takip sistemi\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\C#\WindowForm Ugulamalari\staj takip sistemi\staj takip sistemi\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\C#\WindowForm Ugulamalari\staj takip sistemi\staj takip sistemi\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\C#\WindowForm Ugulamalari\staj takip sistemi\staj takip sistemi\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\C#\WindowForm Ugulamalari\staj takip sistemi\staj takip sistemi\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll
+D:\C#\WindowForm Ugulamalari\staj takip sistemi\staj takip sistemi\obj\Debug\net6.0-windows\staj takip sistemi.csproj.CopyComplete
+D:\C#\WindowForm Ugulamalari\staj takip sistemi\staj takip sistemi\obj\Debug\net6.0-windows\staj_takip_sistemi.gırısfrm.resources
+D:\C#\WindowForm Ugulamalari\staj takip sistemi\staj takip sistemi\obj\Debug\net6.0-windows\staj_takip_sistemi.ogrencıbılgılerfrm.resources
+D:\C#\WindowForm Ugulamalari\staj takip sistemi\staj takip sistemi\obj\Debug\net6.0-windows\staj_takip_sistemi.ogrencıfrm.resources
+D:\C#\WindowForm Ugulamalari\staj takip sistemi\staj takip sistemi\obj\Debug\net6.0-windows\staj_takip_sistemi.ogrencıstajdefterıfrm.resources
+D:\C#\WindowForm Ugulamalari\staj takip sistemi\staj takip sistemi\obj\Debug\net6.0-windows\staj_takip_sistemi.ogretmenfrm.resources
+D:\C#\WindowForm Ugulamalari\staj takip sistemi\staj takip sistemi\obj\Debug\net6.0-windows\staj_takip_sistemi.excelfrm.resources
+D:\C#\WindowForm Ugulamalari\staj takip sistemi\staj takip sistemi\obj\Debug\net6.0-windows\staj_takip_sistemi.kurumfrm.resources
+D:\C#\WindowForm Ugulamalari\staj takip sistemi\staj takip sistemi\obj\Debug\net6.0-windows\staj_takip_sistemi.stajbasvurufrm.resources
+D:\C#\WindowForm Ugulamalari\staj takip sistemi\staj takip sistemi\obj\Debug\net6.0-windows\staj_takip_sistemi.stajdefterıogretmenfrm.resources
+D:\C#\WindowForm Ugulamalari\staj takip sistemi\staj takip sistemi\obj\Debug\net6.0-windows\staj_takip_sistemi.stajdurumu.resources
+D:\C#\WindowForm Ugulamalari\staj takip sistemi\staj takip sistemi\obj\Debug\net6.0-windows\staj_takip_sistemi.toplukatyıteklemefrm.resources
+C:\Users\User\Downloads\staj takip sistemi\staj takip sistemi\bin\Debug\net6.0-windows\staj takip sistemi.exe
+C:\Users\User\Downloads\staj takip sistemi\staj takip sistemi\bin\Debug\net6.0-windows\staj takip sistemi.deps.json
+C:\Users\User\Downloads\staj takip sistemi\staj takip sistemi\bin\Debug\net6.0-windows\staj takip sistemi.runtimeconfig.json
+C:\Users\User\Downloads\staj takip sistemi\staj takip sistemi\bin\Debug\net6.0-windows\staj takip sistemi.dll
+C:\Users\User\Downloads\staj takip sistemi\staj takip sistemi\bin\Debug\net6.0-windows\staj takip sistemi.pdb
+C:\Users\User\Downloads\staj takip sistemi\staj takip sistemi\bin\Debug\net6.0-windows\ExcelDataReader.dll
+C:\Users\User\Downloads\staj takip sistemi\staj takip sistemi\bin\Debug\net6.0-windows\ExcelDataReader.DataSet.dll
+C:\Users\User\Downloads\staj takip sistemi\staj takip sistemi\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\User\Downloads\staj takip sistemi\staj takip sistemi\bin\Debug\net6.0-windows\System.Text.Encoding.CodePages.dll
+C:\Users\User\Downloads\staj takip sistemi\staj takip sistemi\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\User\Downloads\staj takip sistemi\staj takip sistemi\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\User\Downloads\staj takip sistemi\staj takip sistemi\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\User\Downloads\staj takip sistemi\staj takip sistemi\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\Downloads\staj takip sistemi\staj takip sistemi\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\Downloads\staj takip sistemi\staj takip sistemi\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll
+C:\Users\User\Downloads\staj takip sistemi\staj takip sistemi\obj\Debug\net6.0-windows\staj takip sistemi.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\staj takip sistemi\staj takip sistemi\obj\Debug\net6.0-windows\staj_takip_sistemi.excelfrm.resources
+C:\Users\User\Downloads\staj takip sistemi\staj takip sistemi\obj\Debug\net6.0-windows\staj_takip_sistemi.gırısfrm.resources
+C:\Users\User\Downloads\staj takip sistemi\staj takip sistemi\obj\Debug\net6.0-windows\staj_takip_sistemi.kurumeklemefrm.resources
+C:\Users\User\Downloads\staj takip sistemi\staj takip sistemi\obj\Debug\net6.0-windows\staj_takip_sistemi.kurumfrm.resources
+C:\Users\User\Downloads\staj takip sistemi\staj takip sistemi\obj\Debug\net6.0-windows\staj_takip_sistemi.ogrencıbılgılerfrm.resources
+C:\Users\User\Downloads\staj takip sistemi\staj takip sistemi\obj\Debug\net6.0-windows\staj_takip_sistemi.ogrencıfrm.resources
+C:\Users\User\Downloads\staj takip sistemi\staj takip sistemi\obj\Debug\net6.0-windows\staj_takip_sistemi.ogrencıstajdefterıfrm.resources
+C:\Users\User\Downloads\staj takip sistemi\staj takip sistemi\obj\Debug\net6.0-windows\staj_takip_sistemi.ogretmenfrm.resources
+C:\Users\User\Downloads\staj takip sistemi\staj takip sistemi\obj\Debug\net6.0-windows\staj_takip_sistemi.Properties.Resources.resources
+C:\Users\User\Downloads\staj takip sistemi\staj takip sistemi\obj\Debug\net6.0-windows\staj_takip_sistemi.stajbasvurufrm.resources
+C:\Users\User\Downloads\staj takip sistemi\staj takip sistemi\obj\Debug\net6.0-windows\staj_takip_sistemi.stajdefterıogretmenfrm.resources
+C:\Users\User\Downloads\staj takip sistemi\staj takip sistemi\obj\Debug\net6.0-windows\staj_takip_sistemi.stajdurumu.resources
+C:\Users\User\Downloads\staj takip sistemi\staj takip sistemi\obj\Debug\net6.0-windows\staj_takip_sistemi.toplukatyıteklemefrm.resources
+C:\Users\User\Downloads\staj takip sistemi\staj takip sistemi\obj\Debug\net6.0-windows\staj takip sistemi.csproj.GenerateResource.cache
+C:\Users\User\Downloads\staj takip sistemi\staj takip sistemi\obj\Debug\net6.0-windows\staj takip sistemi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\staj takip sistemi\staj takip sistemi\obj\Debug\net6.0-windows\staj takip sistemi.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\staj takip sistemi\staj takip sistemi\obj\Debug\net6.0-windows\staj takip sistemi.AssemblyInfo.cs
+C:\Users\User\Downloads\staj takip sistemi\staj takip sistemi\obj\Debug\net6.0-windows\staj takip sistemi.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\staj takip sistemi\staj takip sistemi\obj\Debug\net6.0-windows\staj tak.5FA9387D.Up2Date
+C:\Users\User\Downloads\staj takip sistemi\staj takip sistemi\obj\Debug\net6.0-windows\staj takip sistemi.dll
+C:\Users\User\Downloads\staj takip sistemi\staj takip sistemi\obj\Debug\net6.0-windows\refint\staj takip sistemi.dll
+C:\Users\User\Downloads\staj takip sistemi\staj takip sistemi\obj\Debug\net6.0-windows\staj takip sistemi.pdb
+C:\Users\User\Downloads\staj takip sistemi\staj takip sistemi\obj\Debug\net6.0-windows\staj takip sistemi.genruntimeconfig.cache
+C:\Users\User\Downloads\staj takip sistemi\staj takip sistemi\obj\Debug\net6.0-windows\ref\staj takip sistemi.dll
+D:\C#\WindowForm Ugulamalari\staj takip sistemi\staj takip sistemi\obj\Debug\net6.0-windows\staj_takip_sistemi.kurumeklemefrm.resources
